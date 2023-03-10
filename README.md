@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-✨ I'm a passionate software developer living in Ankara, Turkey, working on enterprise applications and open-source software.
+✨ I'm a passionate <strong> software developer </strong> living in Ankara, Turkey, working on enterprise applications and open-source software.
 
 📫 How to reach me: viedrelx@gmail.com <br>
 🌱  I’m currently learning Flutter
