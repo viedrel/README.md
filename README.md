@@ -3,7 +3,7 @@
 ✨ I'm a passionate <strong> software developer </strong> living in Ankara, Turkey, working on enterprise applications and open-source software.
 
 📫 How to reach me: viedrelx@gmail.com <br>
-🌱  I’m currently learning Flutter
+🌱  I’m currently learning everything
 
 
 <img src="https://raw.githubusercontent.com/viedrel/viedrel/main/360_F_226051052_twHykrDIeoywpQKQGQAC6pR46AhKvsRf.jpg?token=GHSAT0AAAAAAB73CK3BYXU7VHFSJUSVNFJCZALQ6FQ" width="auto">
